@@ -1,0 +1,5 @@
+﻿  Scanner.cpp
+c:\users\butch\source\repos\project1\project1\scanner.cpp(107): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\butch\source\repos\project1\project1\scanner.cpp(221): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\butch\source\repos\project1\project1\scanner.cpp(294): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project1.vcxproj -> C:\Users\butch\source\repos\Project1\Debug\Project1.exe
